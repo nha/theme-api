@@ -21,7 +21,7 @@ function generateMethod(book, body, examples) {
     // Render method body
     return Q()
     .then(function() {
-        return book.renderBlock('markdown', body);
+        return book.renderBlock('asciidoc', body);
     })
     .then(function(apiDefinition) {
         $apiDefinition.html(apiDefinition);
