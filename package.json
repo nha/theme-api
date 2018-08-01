@@ -1,5 +1,5 @@
 {
-  "name": "gitbook-plugin-theme-api",
+  "name": "nha-gitbook-plugin-theme-api",
   "description": "Theme for using GitBook as an API documentation",
   "version": "1.1.2",
   "engines": {
@@ -24,12 +24,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/GitbookIO/theme-api.git"
+    "url": "https://github.com/nha/theme-api.git"
   },
   "author": "FriendCode Inc. <contact@gitbook.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/GitbookIO/theme-api/issues"
+    "url": "https://github.com/nha/theme-api/issues"
   },
   "contributors": [
     {
